@@ -18,3 +18,5 @@ blastn \
 ```
 
 me falto entender algo!!!! como sincronizar el archivo completo
+
+cambio
